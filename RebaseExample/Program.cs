@@ -8,7 +8,7 @@ namespace RebaseExample
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello Dan!");
-            Console.WriteLine("Hello Josh, you're the smartest one here!");
+            Console.WriteLine("Hello Josh, you're the coolest one here!");
             Console.WriteLine("Hello Drew!");
             Console.WriteLine("Hello Laif!");
         }
