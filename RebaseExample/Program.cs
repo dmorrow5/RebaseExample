@@ -10,7 +10,7 @@ namespace RebaseExample
             Console.WriteLine("Hello Dan!");
             Console.WriteLine("Hello Josh!");
             Console.WriteLine("Hello Drew!");
-            Console.WriteLine("Hello Laif!");
+            Console.WriteLine("Hello Laif, you're the smartest one here!");
         }
     }
 }
